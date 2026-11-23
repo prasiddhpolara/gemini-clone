@@ -2,7 +2,7 @@
 
 A chatbot web app inspired by Google Gemini, built with React and Vite. It talks to the Gemini API, remembers the conversation, and saves your chats in the browser.
 
-> Screenshot: add one here (take a screenshot of the app and save it as `screenshot.png`, then use `![App screenshot](screenshot.png)`).
+<img width="1920" height="1033" alt="Screenshot 2026-11-23 151229" src="https://github.com/user-attachments/assets/c91b4bb1-b565-4826-871b-9a6f9018b913" />
 
 ## Features
 - Chat with Gemini using the official `@google/genai` SDK
